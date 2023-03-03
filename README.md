@@ -1,1 +1,1 @@
-# [Esercizi-vari leetcode.com](https://leetcode.com/Choown/)
+# [Some Java exercises made on leetcode.com](https://leetcode.com/Choown/)
